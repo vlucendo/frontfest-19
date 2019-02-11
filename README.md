@@ -1,6 +1,6 @@
 # Cómo programar un motor de animaciones cuidando el rendimiento
 
-Material about the talk I gave in Spanish about how to program a simple animation engine at FrontFest '19.
+Material of the talk I gave in Spanish about how to program a simple animation engine at FrontFest '19.
 
 - [Slides](https://slides.com/vlucendo/motor-animaciones)
 - [Codepen num. 1](https://codepen.io/vlucendo/pen/80a7f84de63cf6e46bb73c43fa655481)
